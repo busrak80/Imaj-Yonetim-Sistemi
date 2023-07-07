@@ -9,16 +9,14 @@
 
 ## Ben Bir Bilgisayar Mühendisiyim !
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Programlama dillerinde ve yazılım geliştirme araçlarında bilgi birikimine sahibim.
+- 🌱 Yenilikçi uygulamalar hakkında meraklıyım.
+- 👯 Takım çalışmasına yatkın ve hızlı öğrenme kabiliyetine sahibim.
+- ⚡ Amacım teknolojik gelişmelere katkı sağlamak ve kendimi sürekli olarak geliştirmektir.
 
 
 
 ### Programa Dilleri
-
 
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />](https://www.raspberrypi.org/)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
