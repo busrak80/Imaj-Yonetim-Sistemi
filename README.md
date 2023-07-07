@@ -1,5 +1,5 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
-### Connect with me:
+# Merhaba Ben Büşra👋 
+### Benimle Bağlantı Kur:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/busrak.80)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Büşra_Parlak)
 [![Kariyer.net](https://img.shields.io/badge/Kariyer.net-%23000000.svg?&style=for-the-badge&logo=Kariyer.net&logoColor=white)](https://www.kariyer.net/)
@@ -7,7 +7,7 @@
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Ben Bir Bilgisayar Mühendisiyim !
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -17,7 +17,7 @@
 
 
 
-### Languages and Tools:
+### Programa Dilleri
 
 
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />](https://www.raspberrypi.org/)
