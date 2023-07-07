@@ -2,6 +2,7 @@
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/busrak.80)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Büşra_Parlak)
+[![Kariyer.net](https://img.shields.io/badge/Kariyer.net-%23000000.svg?&style=for-the-badge&logo=Kariyer.net&logoColor=white)](https://www.kariyer.net/)
 [![E-posta](https://img.shields.io/badge/E-posta-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:busra.parlak80@outlook.com)
 
 
