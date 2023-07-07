@@ -2,6 +2,8 @@
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/busrak.80)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Büşra_Parlak)
+[![E-posta](https://img.shields.io/badge/E-posta-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:busra.parlak80@outlook.com)
+
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
@@ -12,7 +14,6 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
 
 
 ### Languages and Tools:
